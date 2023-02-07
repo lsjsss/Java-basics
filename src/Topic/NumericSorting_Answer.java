@@ -1,5 +1,9 @@
 package Topic;
 
+/**
+* @author lsjss
+*/
+
 import java.util.Scanner;
 
 public class NumericSorting_Answer {    //冒泡排序法
